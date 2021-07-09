@@ -1,6 +1,4 @@
 <h1 align="center">Lotus' Profile</h1>
-</br>
-</br>
 🖥️Languages I currently use are C++ & Python
 </br> <!-- Development Field -->
 🔚Back-end Developer
